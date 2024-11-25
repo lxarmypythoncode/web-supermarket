@@ -1,0 +1,20 @@
+<wpml-config>
+	<admin-texts>
+		<key name="supermarket_theme_options">
+			<key name="supermarket_search_text" />
+			<key name="supermarket_search_product_text" />
+			<key name="supermarket_tag_text" />
+			<key name="supermarket_features_title" />
+			<key name="supermarket_features_description" />
+			<key name="supermarket_shopnow_text" />
+			<key name="supermarket_product_promotion_name_1" />
+			<key name="supermarket_product_promotion_desc_1" />
+			<key name="supermarket_img-product-promotion-image-1" />
+			<key name="supermarket_product_promotion_url_1" />
+			<key name="supermarket_product_promotion_name_2" />
+			<key name="supermarket_product_promotion_desc_2" />
+			<key name="supermarket_img-product-promotion-image-2" />
+			<key name="supermarket_product_promotion_url_2" />
+		</key>
+	</admin-texts>
+</wpml-config>
